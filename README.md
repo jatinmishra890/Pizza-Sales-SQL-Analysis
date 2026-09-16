@@ -82,27 +82,22 @@ The project answers questions such as:
 - RANK()
 - PARTITION BY
 
-## 📸 SQL Analysis Results
+📁 Project Structure
 
-### 1. SQL Queries
-
-The project contains multiple SQL queries covering order analysis, revenue analysis, pizza pricing, and pizza size analysis.
-
-![SQL Queries](Screenshot/Screenshot 2026-09-16 213731.png)
-
-
-### 2. Cumulative Revenue Analysis
-
-Analyzed the cumulative revenue generated over time using SQL window functions.
-
-![Cumulative Revenue Analysis](screenshots/cumulative_revenue.png)
-
-
-### 3. Top Pizza Types by Revenue
-
-Identified the top 3 pizza types by revenue within each pizza category using the `RANK()` window function.
-
-![Top Pizza Types by Revenue](screenshots/top_pizzas_by_revenue.png)
+🍕 pizza-sales-sql-analysis
+│
+├── 📂 data
+│   ├── orders.csv
+│   ├── order_details.csv
+│   ├── pizzas.csv
+│   └── pizza_types.csv
+│
+├── 📂 sql
+│   └── pizza_sales_analysis.sql
+│
+├── 📂 Quaries Output screenshot
+│
+└── 📄 README.md
 
 
 ### 🔗 Dataset Relationships
