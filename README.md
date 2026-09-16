@@ -88,21 +88,21 @@ The project answers questions such as:
 
 The project contains multiple SQL queries covering order analysis, revenue analysis, pizza pricing, and pizza size analysis.
 
-![SQL Queries](Screenshots/Screenshot 2026-09-16 213731.png)
+![SQL Queries](Screenshots/Screenshot%202026-09-16%20213731.png)
 
 
 ### 2. Cumulative Revenue Analysis
 
 Analyzed the cumulative revenue generated over time using SQL window functions.
 
-![Cumulative Revenue Analysis](Screenshots/Screenshot 2026-09-16 213932.png)
+![Cumulative Revenue Analysis](Screenshots/Screenshot%202026-09-16%20213932.png))
 
 
 ### 3. Top Pizza Types by Revenue
 
 Identified the top 3 pizza types by revenue within each pizza category using the `RANK()` window function.
 
-![Top Pizza Types by Revenue](Screenshots/Screenshot 2026-09-16 213952.png)
+![Top Pizza Types by Revenue](Screenshots/Screenshot%202026-09-16%20213952.png)
 
 ### 🔗 Dataset Relationships
 orders
