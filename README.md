@@ -88,7 +88,7 @@ The project answers questions such as:
 
 The project contains multiple SQL queries covering order analysis, revenue analysis, pizza pricing, and pizza size analysis.
 
-![SQL Queries](screenshots/sql_queries.png)
+![SQL Queries](Screenshot/Screenshot 2026-09-16 213731.png)
 
 
 ### 2. Cumulative Revenue Analysis
