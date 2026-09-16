@@ -104,6 +104,7 @@ Identified the top 3 pizza types by revenue within each pizza category using the
 
 ![Top Pizza Types by Revenue](Screenshots/Screenshot%202026-09-16%20213952.png)
 
+
 ### 🔗 Dataset Relationships
 orders
    │
@@ -118,9 +119,12 @@ pizzas
    │ pizza_type_id
    ↓
 pizza_types
+
 ---
 ## Author
+
 Jatin Mohan Mishra
+
 ---
 ## License
 This project is licensed under the MIT Lisence.
