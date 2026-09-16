@@ -41,10 +41,10 @@ The analysis focuses on:
 ## 📂 Dataset
 The project contains four related datasets:
 
-- [`orders.csv`](orders.csv) – Order date and time information
-- [`order_details.csv`](order_details.csv) – Order details and pizza quantities
-- [`pizzas.csv`](pizzas.csv) – Pizza size and price information
-- [`pizza_types.csv`](pizza_types.csv) – Pizza names, categories, and ingredients
+- [`orders.csv`](Data/orders.csv) – Order date and time information
+- [`order_details.csv`](Data/order_details.csv) – Order details and pizza quantities
+- [`pizzas.csv`](Data/pizzas.csv) – Pizza size and price information
+- [`pizza_types.csv`](Data/pizza_types.csv) – Pizza names, categories, and ingredients
 
 ## 🔍 SQL Analysis
 
