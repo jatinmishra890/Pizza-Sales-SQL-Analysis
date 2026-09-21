@@ -82,24 +82,6 @@ The project answers questions such as:
 - RANK()
 - PARTITION BY
 
-📁 Project Structure
-
-🍕 pizza-sales-sql-analysis
-│
-├── 📂 data
-│   ├── orders.csv
-│   ├── order_details.csv
-│   ├── pizzas.csv
-│   └── pizza_types.csv
-│
-├── 📂 sql
-│   └── pizza_sales_analysis.sql
-│
-├── 📂 Quaries Output screenshot
-│
-└── 📄 README.md
-
-
 ### 🔗 Dataset Relationships
 orders
    │
