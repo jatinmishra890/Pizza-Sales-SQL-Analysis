@@ -83,6 +83,7 @@ The project answers questions such as:
 - PARTITION BY
 
 ### 🔗 Dataset Relationships
+
 orders
    │
    │ order_id
@@ -97,7 +98,6 @@ pizzas
    ↓
 pizza_types
 
----
 ## Author
 
 Jatin Mohan Mishra
